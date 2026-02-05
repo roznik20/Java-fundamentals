@@ -1,0 +1,18 @@
+{
+    "C_Cpp.copilotHover": "disabled",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.edits.showLongDistanceHint": false,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "editor.inlineSuggest.showToolbar": "never",
+    "editor.inlineSuggest.suppressInSnippetMode": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.suggest.filterGraceful": false,
+    "editor.suggest.matchOnWordStartOnly": false,
+    "editor.suggest.showClasses": true,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.suggest.selectionMode": "never",
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "editor.quickSuggestionsDelay": 4000
+}
